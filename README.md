@@ -1,6 +1,4 @@
-# Algorithm-design-and-analysis-experiments
-
-To save and display my Algorithm homework
+# 算法设计与分析
 
 ## 实验（一）实现快速排序算法
 
